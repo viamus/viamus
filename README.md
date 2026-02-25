@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Lucas Farias do Valle
 
-<!--
-**viamus/viamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Staff Architect | AI-Oriented Systems | Supply Chain Engineering
 
-Here are some ideas to get you started:
+I design and scale distributed systems that evolve with intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Do
+
+- Lead AI-driven engineering transformation initiatives  
+- Architect large-scale microservice ecosystems  
+- Build autonomous DevOps & Observability agents  
+- Drive zero-monolith and modernization strategies  
+
+---
+
+### 🚀 Current Focus
+
+- AI Strategy
+- Claude-based Multi-Agent Orchestration
+- Azure DevOps + Datadog Automation
+- Distributed System Governance
+
+---
+
+### 🛠 Core Stack
+
+C# • .NET • Kubernetes • Azure • Terraform • Datadog • RAG Systems • AI Agents
+
+---
+
+### ⚔️ Philosophy
+
+> Strategy beats intensity. Structure beats noise.
