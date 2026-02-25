@@ -1,4 +1,4 @@
-# 👋 Lucas Farias do Valle
+# 👋 Lucas F. Valle
 
 ## Staff Architect | AI-Oriented Systems | Supply Chain Engineering
 
