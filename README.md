@@ -33,3 +33,5 @@ C# • .NET • Kubernetes • Azure • Terraform • Datadog • RAG Systems �
 ### ⚔️ Philosophy
 
 > Strategy beats intensity. Structure beats noise.
+
+<img width="998" height="612" alt="image" src="https://github.com/user-attachments/assets/1657cdba-2416-4698-b2c7-4e7975bb66b9" />
