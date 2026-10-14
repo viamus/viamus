@@ -36,4 +36,4 @@ C# • .NET • Kubernetes • Azure • Terraform • Datadog • RAG Systems �
 
 ---
 ### Codex Usage
-<img width="900" height="384" alt="image" src="https://github.com/user-attachments/assets/c82e2b23-f500-41a6-be60-0de356702004" />
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/c82e2b23-f500-41a6-be60-0de356702004" />
