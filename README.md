@@ -55,7 +55,7 @@ Good architecture should help teams deliver and operate software with confidence
 A snapshot of my hands-on work with AI-assisted engineering:
 
 <div align="center">
-  <img width="900" alt="Codex usage overview" src="https://github.com/user-attachments/assets/c82e2b23-f500-41a6-be60-0de356702004" />
+  <img width="835" height="406" alt="Codex usage overview" src="https://github.com/user-attachments/assets/aa8bf4e3-260a-4c16-a814-4543ce4a2753" />
 </div>
 
 <sub>Usage is a snapshot, not a measure of engineering quality. What matters is what gets designed, shipped, and improved.</sub>
