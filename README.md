@@ -18,7 +18,7 @@ I'm a software architect working at the intersection of **distributed systems, c
 
 I care about architecture beyond diagrams: how systems behave in production, how teams make technical decisions, and how to turn complexity into reliable, maintainable software.
 
-My approach is pragmatic. I favor clear boundaries, observable systems, engineering autonomy, and automation that solves real problems—not complexity for its own sake.
+My approach is pragmatic. I favor clear boundaries, observable systems, engineering autonomy, and automation that solves real problems , not complexity for its own sake.
 
 ## What I work on
 
